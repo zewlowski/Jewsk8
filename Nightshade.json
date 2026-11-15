@@ -1,7 +1,7 @@
 {
   "name": "Nightshade",
-  "description": "Clean, midnight-purple aesthetic",
-  "version": "3",
+  "description": "Clean, midnight-purple aesthetic (Notification Fix)",
+  "version": "4",
   "authors": [
     {
       "name": "Theme author",
@@ -9,231 +9,81 @@
     }
   ],
   "semanticColors": {
-    "BACKGROUND_ACCENT": [
-      "#FFFFFF"
-    ],
-    "BACKGROUND_BRAND": [
-      "#FFFFFF"
-    ],
-    "MENTION_FOREGROUND": [
-      "#FFFFFF"
-    ],
-    "TEXT_LINK": [
-      "#FFFFFF"
-    ],
-    "INTERACTIVE_ACTIVE": [
-      "#FFFFFF"
-    ],
-    "INTERACTIVE_HOVER": [
-      "#FFFFFF"
-    ],
-    "CHANNELS_DEFAULT": [
-      "#FFFFFF"
-    ],
-    "CHANNEL_ICON": [
-      "#FFFFFF"
-    ],
-    "HEADER_SECONDARY": [
-      "#FFFFFF"
-    ],
-    "INTERACTIVE_MUTED": [
-      "#FFFFFF"
-    ],
-    "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
-      "#FFFFFF"
-    ],
-    "TEXT_MUTED": [
-      "#FFFFFF"
-    ],
-    "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
-      "#080808"
-    ],
-    "CHAT_BACKGROUND": [
-      "#080808"
-    ],
-    "BACKGROUND_MOBILE_PRIMARY": [
-      "#080808"
-    ],
-    "BACKGROUND_PRIMARY": [
-      "#080808"
-    ],
-    "BG_BASE_PRIMARY": [
-      "#080808"
-    ],
-    "HOME_BACKGROUND": [
-      "#080808"
-    ],
-    "STATUS_DANGER_TEXT": [
-      "#080808"
-    ],
-    "BACKGROUND_FLOATING": [
-      "#0D0D0D"
-    ],
-    "BACKGROUND_MOBILE_SECONDARY": [
-      "#0D0D0D"
-    ],
-    "BACKGROUND_NESTED_FLOATING": [
-      "#0D0D0D"
-    ],
-    "BACKGROUND_SECONDARY": [
-      "#0D0D0D"
-    ],
-    "BACKGROUND_SECONDARY_ALT": [
-      "#0D0D0D"
-    ],
-    "BACKGROUND_SURFACE_RAISED": [
-      "#0D0D0D"
-    ],
-    "BACKGROUND_TERTIARY": [
-      "#0D0D0D"
-    ],
-    "BG_BASE_SECONDARY": [
-      "#0D0D0D"
-    ],
-    "BG_BASE_TERTIARY": [
-      "#0D0D0D"
-    ],
-    "BG_SURFACE_OVERLAY": [
-      "#0D0D0D"
-    ],
-    "BG_SURFACE_OVERLAY_TMP": [
-      "#0D0D0D"
-    ],
-    "BG_SURFACE_RAISED": [
-      "#0D0D0D"
-    ],
-    "CARD_PRIMARY_BG": [
-      "#0D0D0D"
-    ],
-    "CARD_SECONDARY_BG": [
-      "#0D0D0D"
-    ],
-    "CHANNELTEXTAREA_BACKGROUND": [
-      "#0D0D0D"
-    ],
-    "EMBED_BACKGROUND": [
-      "#0D0D0D"
-    ],
-    "INPUT_BACKGROUND_DEFAULT": [
-      "#0D0D0D"
-    ],
-    "KEYBOARD": [
-      "#0D0D0D"
-    ],
-    "PANEL_BG": [
-      "#0D0D0D"
-    ],
-    "POLLS_NORMAL_FILL_HOVER": [
-      "#0D0D0D"
-    ],
-    "POLLS_NORMAL_IMAGE_BACKGROUND": [
-      "#0D0D0D"
-    ],
-    "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-      "#0D0D0D"
-    ],
-    "REDESIGN_ACTIVITY_CARD_BACKGROUND_PRESSED": [
-      "#0D0D0D"
-    ],
-    "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
-      "#0D0D0D"
-    ],
-    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-      "#0D0D0D"
-    ],
-    "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
-      "#0D0D0D"
-    ],
-    "REDESIGN_CHAT_INPUT_BACKGROUND": [
-      "#0D0D0D"
-    ],
-    "HEADER_PRIMARY": [
-      "#FFFFFF"
-    ],
-    "INTERACTIVE_NORMAL": [
-      "#FFFFFF"
-    ],
-    "INTERACTIVE_TEXT_DEFAULT": [
-      "#FFFFFF"
-    ],
-    "REDESIGN_CHANNEL_NAME_TEXT": [
-      "#FFFFFF"
-    ],
-    "TEXT_DEFAULT": [
-      "#FFFFFF"
-    ],
-    "TEXT_NORMAL": [
-      "#FFFFFF"
-    ],
-    "TEXT_PRIMARY": [
-      "#FFFFFF"
-    ],
-    "TEXT_STRONG": [
-      "#FFFFFF"
-    ],
-    "ANDROID_RIPPLE": [
-      "#5b2a82"
-    ],
-    "BACKGROUND_MENTIONED": [
-      "rgba(114,0,0,0.1)"
-    ],
-    "BACKGROUND_MENTIONED_HOVER": [
-      "rgba(170,0,0,0.1)"
-    ],
-    "BACKGROUND_MESSAGE_HOVER": [
-      "#FFFFFF0D"
-    ],
-    "BACKGROUND_MODIFIER_ACCENT": [
-      "#FFFFFF12"
-    ],
-    "BACKGROUND_MODIFIER_ACTIVE": [
-      "#FFFFFF14"
-    ],
-    "BACKGROUND_MODIFIER_HOVER": [
-      "#FFFFFF0F"
-    ],
-    "BACKGROUND_MODIFIER_SELECTED": [
-      "#FFFFFF1A"
-    ],
-    "BACKGROUND_MODIFIER_ACCEPT": [
-      "#43b58133"
-    ],
-    "BACKGROUND_MODIFIER_ACCEPT_HOVER": [
-      "#43b5814d"
-    ],
-    "BACKGROUND_MOD_MUTED": [
-      "#121214"
-    ],
-    "BG_BACKDROP": [
-      "#000000b2"
-    ],
-    "BORDER_FAINT": [
-      "#FFFFFF12"
-    ],
-    "BORDER_SUBTLE": [
-      "#FFFFFF1C"
-    ],
-    "BORDER_STRONG": [
-      "#FFFFFF26"
-    ],
-    "REDESIGN_BUTTON_DANGER_BACKGROUND": [
-      "#7f007b"
-    ],
-    "REDESIGN_BUTTON_SECONDARY_BORDER": [
-      "#FFFFFF1A"
-    ],
-    "SPOILER_HIDDEN_BACKGROUND": [
-      "#000000"
-    ],
-    "STATUS_DANGER": [
-      "#7f007b"
-    ],
-    "STATUS_DANGER_BACKGROUND": [
-      "#7f007b"
-    ],
-    "TEXT_SECONDARY": [
-      "#d79dff"
-    ]
+    "BACKGROUND_ACCENT": ["#FFFFFF"],
+    "BACKGROUND_BRAND": ["#FFFFFF"],
+    "MENTION_FOREGROUND": ["#FFFFFF"],
+    "TEXT_LINK": ["#FFFFFF"],
+    "INTERACTIVE_ACTIVE": ["#FFFFFF"],
+    "INTERACTIVE_HOVER": ["#FFFFFF"],
+    "CHANNELS_DEFAULT": ["#FFFFFF"],
+    "CHANNEL_ICON": ["#FFFFFF"],
+    "HEADER_SECONDARY": ["#FFFFFF"],
+    "INTERACTIVE_MUTED": ["#FFFFFF"],
+    "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": ["#FFFFFF"],
+    "TEXT_MUTED": ["#FFFFFF"],
+    "ANDROID_NAVIGATION_SCRIM_BACKGROUND": ["#080808"],
+    "CHAT_BACKGROUND": ["#080808"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#080808"],
+    "BACKGROUND_PRIMARY": ["#080808"],
+    "BG_BASE_PRIMARY": ["#080808"],
+    "HOME_BACKGROUND": ["#080808"],
+    "STATUS_DANGER_TEXT": ["#FFFFFF"],
+    "BACKGROUND_FLOATING": ["#0D0D0D"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#0D0D0D"],
+    "BACKGROUND_NESTED_FLOATING": ["#0D0D0D"],
+    "BACKGROUND_SECONDARY": ["#0D0D0D"],
+    "BACKGROUND_SECONDARY_ALT": ["#0D0D0D"],
+    "BACKGROUND_SURFACE_RAISED": ["#0D0D0D"],
+    "BACKGROUND_TERTIARY": ["#0D0D0D"],
+    "BG_BASE_SECONDARY": ["#0D0D0D"],
+    "BG_BASE_TERTIARY": ["#0D0D0D"],
+    "BG_SURFACE_OVERLAY": ["#0D0D0D"],
+    "BG_SURFACE_OVERLAY_TMP": ["#0D0D0D"],
+    "BG_SURFACE_RAISED": ["#0D0D0D"],
+    "CARD_PRIMARY_BG": ["#0D0D0D"],
+    "CARD_SECONDARY_BG": ["#0D0D0D"],
+    "CHANNELTEXTAREA_BACKGROUND": ["#0D0D0D"],
+    "EMBED_BACKGROUND": ["#0D0D0D"],
+    "INPUT_BACKGROUND_DEFAULT": ["#0D0D0D"],
+    "KEYBOARD": ["#0D0D0D"],
+    "PANEL_BG": ["#0D0D0D"],
+    "POLLS_NORMAL_FILL_HOVER": ["#0D0D0D"],
+    "POLLS_NORMAL_IMAGE_BACKGROUND": ["#0D0D0D"],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND": ["#0D0D0D"],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND_PRESSED": ["#0D0D0D"],
+    "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": ["#0D0D0D"],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#0D0D0D"],
+    "REDESIGN_BUTTON_TERTIARY_BACKGROUND": ["#0D0D0D"],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": ["#0D0D0D"],
+    "HEADER_PRIMARY": ["#FFFFFF"],
+    "INTERACTIVE_NORMAL": ["#FFFFFF"],
+    "INTERACTIVE_TEXT_DEFAULT": ["#FFFFFF"],
+    "REDESIGN_CHANNEL_NAME_TEXT": ["#FFFFFF"],
+    "TEXT_DEFAULT": ["#FFFFFF"],
+    "TEXT_NORMAL": ["#FFFFFF"],
+    "TEXT_PRIMARY": ["#FFFFFF"],
+    "TEXT_STRONG": ["#FFFFFF"],
+    "ANDROID_RIPPLE": ["#5b2a82"],
+    "BACKGROUND_MENTIONED": ["rgba(255,77,109,0.25)"],
+    "BACKGROUND_MENTIONED_HOVER": ["rgba(255,77,109,0.35)"],
+    "BACKGROUND_MESSAGE_HOVER": ["#FFFFFF0D"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#FFFFFF12"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#FFFFFF14"],
+    "BACKGROUND_MODIFIER_HOVER": ["#FFFFFF0F"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#FFFFFF1A"],
+    "BACKGROUND_MODIFIER_ACCEPT": ["#43b58133"],
+    "BACKGROUND_MODIFIER_ACCEPT_HOVER": ["#43b5814d"],
+    "BACKGROUND_MOD_MUTED": ["#121214"],
+    "BG_BACKDROP": ["#000000b2"],
+    "BORDER_FAINT": ["#FFFFFF12"],
+    "BORDER_SUBTLE": ["#FFFFFF1C"],
+    "BORDER_STRONG": ["#FFFFFF26"],
+    "REDESIGN_BUTTON_DANGER_BACKGROUND": ["#FF4D6D"],
+    "REDESIGN_BUTTON_SECONDARY_BORDER": ["#FFFFFF1A"],
+    "SPOILER_HIDDEN_BACKGROUND": ["#000000"],
+    "STATUS_DANGER": ["#FF4D6D"],
+    "STATUS_DANGER_BACKGROUND": ["#FF4D6D"],
+    "TEXT_SECONDARY": ["#d79dff"]
   },
   "rawColors": {
     "BRAND_200": "#FFFFFF",
@@ -298,7 +148,7 @@
     "PRIMARY_645": "#101012",
     "PRIMARY_800": "#101012",
     "GREEN_500": "#43b581",
-    "RED_500": "#7f007b",
+    "RED_500": "#FF4D6D",
     "ORANGE_500": "#faa61a",
     "YELLOW_500": "#faa61a"
   },
@@ -309,7 +159,7 @@
   },
   "spec": 2,
   "background": {
-    "url": "https://cdn.discordapp.com/attachments/1565624503285850162/1571313418072227880/TheDuckGaming_ssspin.io_1794700273-ezgif.com-video-to-gif-converter.gif?ex=6afa4728&is=6af8f5a8&hm=30ba885f5cc5d784f6f0e8edc27de6b9a911800aaebd8091c47a7c8f363db27e&",
+    "url": "https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif",
     "alpha": 0.4,
     "size": "cover",
     "position": "center"
